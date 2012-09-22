@@ -1,4 +1,4 @@
 Awesome WordPress Startoff
 ==========================
 
-Base starting point for a WP project (v3.4.1)
+Base starting point for a WP project (v3.4.2)
