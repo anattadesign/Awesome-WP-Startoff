@@ -6,6 +6,13 @@
 *.exe
 *.o
 *.so
+*.out
+
+# Data-centric files #
+######################
+*.csv
+*.dat
+*.json
 
 # Packages #
 ############
@@ -33,6 +40,12 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
+# Software generated files #
+############################
+*.seed
+*.pid
+/nbproject/
+
 # Specifics #
 ############
 .htaccess
@@ -46,6 +59,5 @@ wp-content/backup-db/*
 wp-content/advanced-cache.php
 wp-content/wp-cache-config.php
 wp-content/cache/*
-wp-content/cache/supercache/*
 wp-content/w3-total-cache-config.php
 wp-content/w3tc/
